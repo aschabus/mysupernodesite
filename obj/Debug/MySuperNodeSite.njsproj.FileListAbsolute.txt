@@ -1,2 +1,6 @@
 C:\Users\aschabus\Desktop\Innsbruck\mysupernodesite\obj\Debug\MySuperNodeSite.njsprojResolveAssemblyReference.cache
 C:\Users\aschabus\Desktop\Innsbruck\mysupernodesite\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\aschabus\Desktop\HTL Kaindorf\mysupernodesite\obj\Debug\MySuperNodeSite.njsprojResolveAssemblyReference.cache
+C:\Users\aschabus\Desktop\HTL Kaindorf\mysupernodesite\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\aschabus\Desktop\HTL Kaindorf 20160627\mysupernodesite\obj\Debug\MySuperNodeSite.njsprojResolveAssemblyReference.cache
+C:\Users\aschabus\Desktop\HTL Kaindorf 20160627\mysupernodesite\bin\Microsoft.NodejsTools.WebRole.dll
