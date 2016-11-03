@@ -1,0 +1,2 @@
+C:\Users\aschabus\Desktop\Fronius\mysupernodesite\obj\Debug\MySuperNodeSite.njsprojResolveAssemblyReference.cache
+C:\Users\aschabus\Desktop\Fronius\mysupernodesite\bin\Microsoft.NodejsTools.WebRole.dll
