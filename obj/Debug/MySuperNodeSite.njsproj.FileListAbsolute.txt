@@ -1,7 +1,2 @@
-C:\Users\aschabus\Desktop\Fronius\mysupernodesite\obj\Debug\MySuperNodeSite.njsprojResolveAssemblyReference.cache
-C:\Users\aschabus\Desktop\Fronius\mysupernodesite\bin\Microsoft.NodejsTools.WebRole.dll
-C:\2work\mysupernodesite\obj\Debug\MySuperNodeSite.njsprojResolveAssemblyReference.cache
-C:\2work\mysupernodesite\bin\Microsoft.NodejsTools.WebRole.dll
-C:\Users\aschabus\Desktop\WorkshopPLUS-Microsoft_Azure_PaaS_Solutions_for_Developers_sca\Web_APIApps\Demos\(mysupernodesite)\obj\Debug\MySuperNodeSite.njsprojResolveAssemblyReference.cache
-C:\Users\aschabus\Desktop\WorkshopPLUS-Microsoft_Azure_PaaS_Solutions_for_Developers_sca\Web_APIApps\Demos\(mysupernodesite)\obj\Debug\MySuperNodeSite.njsproj.CoreCompileInputs.cache
-C:\Users\aschabus\Desktop\WorkshopPLUS-Microsoft_Azure_PaaS_Solutions_for_Developers_sca\Web_APIApps\Demos\(mysupernodesite)\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\aschabus\Desktop\20180522_RR_Azure\02 Web_APIApps\Demos\(mysupernodesite)\obj\Debug\MySuperNodeSite.njsproj.CoreCompileInputs.cache
+C:\Users\aschabus\Desktop\20180522_RR_Azure\02 Web_APIApps\Demos\(mysupernodesite)\bin\Microsoft.NodejsTools.WebRole.dll
